@@ -6,63 +6,54 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
-Analizar y describir las características básicas de los los circuitos RC Y RL.
+Analizar y describir las características básicas de los los circuitos RCL en serie y paralelo.
+
+Analizar la operación de filtros RC y RL
 
 1.1-Objetivos Específicos:
 
--Determinar la impedancia de un circuito RC en serie, analizar un circuito RC en serie.
+-Determinar la impedancia de un circuito RLC en serie y paralelo
 
 -Describir la relación entre corriente y voltaje en un circuito RC en serie
 
--Analizar circuitos RC en serie-paralelo
+-Analizar la operación de filtros pasabajas, pasaaltas, pasabanda, reachazabanda.
 
 2.-Marco Teórico:
 
-Capitulo 15 CIRCUITOS RC
+Capitulo 17 CIRCUITOS RLC Y RESONANCIA
 
-Un circuito RC contiene tanto resistencia como capa- citancia. En este capítulo, se presentan circuitos RC en serie y en paralelo 
-básicos, así como sus respuestas a voltajes sinusoidales de ca. También se analizan com- binaciones dispuestas en serie-paralelo. 
-Se estudian las potencias verdadera, reactiva y aparente en circui- tos RC y se introducen algunas aplicaciones básicas de circuitos RC.
+Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos 
+de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de
+un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar 
+las frecuencias de otras estaciones está basada en el principio de resonancia.
 
-PARTE 1: CIRCUITOS EN SERIE
+PARTE 1: CIRCUITOS EN SERIE: Impedancia de circuitos RLC en serie, Análisis de circuitos RLC en serie y Resonancia en serie
+PARTE 2: CIRCUITOS EN PARALELO: Impedancia de circuitos RLC en paralelo, Análisis de circuitos RLC en paralelo y Resonancia en paralelo
 
-PARTE 2: CIRCUITOS EN PARALELO
+![](https://github.com/phchalco/Tarea9/blob/main/O1.png)
 
-![](https://github.com/phchalco/Tarea8/blob/main/V1.png)
+PARTE 3: Análisis de circuitos RLC en serie-paralelo
+PARTE 4: TEMAS ESPECIALES: Ancho de banda de circuitos resonantes y Aplicaciones
 
-PARTE 3: CIRCUITOS EN SERIE-PARALELO
-
-Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones 
-de componentes R y C tanto en serie como en paralelo.
-
-![](https://github.com/phchalco/Tarea8/blob/main/V2.png)
+![](https://github.com/phchalco/Tarea9/blob/main/O2.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![](https://github.com/phchalco/Tarea8/blob/main/G1.jpg)
 
-Capitulo 15 CIRCUITOS RL
+Capitulo 18 FILTROS PASIVOS
 
-Un circuito RL contiene tanto resistencia como inductancia. En este capítulo, se presentan los circuitos RL básicos en serie y en paralelo 
-y sus respuestas a voltajes sinusoidales de ca. Se analizan combinaciones en serie-paralelo. Se introducen las potencias real, reactiva 
-y aparente en circuitos RL y algunas aplicaciones básicas de éstos. Las aplicaciones de circuitos RL incluyen filtros y reguladores de 
-conmutación.
+Los filtros pasivos se estudian en este capítulo. Los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores.
+En un curso posterior se estudiarán los filtros activos que utilizan componentes pasivos combinados con amplificadores. Ya vimos de qué 
+manera se pueden utilizar los circuitos RC, RL y RLC básicos como filtros.
 
-PARTE 1: CIRCUITOS EN SERIE
+Filtros pasabajas y Filtros pasaaltas
 
-De igual forma que en el circuito RC, en un circuito RL en serie todas las corrientes y todoslos voltajes son sinusoidales cuando el voltaje 
-de entrada es sinusoidal.
+![](https://github.com/phchalco/Tarea9/blob/main/U1.png)
 
-PARTE 2: CIRCUITOS EN PARALELO
+Fitros pasabanda y Filtros rechazabanda
 
-![](https://github.com/phchalco/Tarea8/blob/main/V3.png)
-
-PARTE 3: CIRCUITOS EN SERIE-PARALELO
-
-Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones 
-de componentes R y C tanto en serie como en paralelo.
-
-![](https://github.com/phchalco/Tarea8/blob/main/V4.png)
+![](https://github.com/phchalco/Tarea9/blob/main/U2.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
