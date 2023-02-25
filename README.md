@@ -27,13 +27,11 @@ de aplicaciones. La resonancia es la base de la selectividad de frecuencia en si
 un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar 
 las frecuencias de otras estaciones está basada en el principio de resonancia.
 
-PARTE 1: CIRCUITOS EN SERIE: Impedancia de circuitos RLC en serie, Análisis de circuitos RLC en serie y Resonancia en serie
-PARTE 2: CIRCUITOS EN PARALELO: Impedancia de circuitos RLC en paralelo, Análisis de circuitos RLC en paralelo y Resonancia en paralelo
+PARTE 1: CIRCUITOS EN SERIE: Impedancia de circuitos RLC en serie, Análisis de circuitos RLC en serie y Resonancia en serie                                         PARTE 2: CIRCUITOS EN PARALELO: Impedancia de circuitos RLC en paralelo, Análisis de circuitos RLC en paralelo y Resonancia en paralelo
 
 ![](https://github.com/phchalco/Tarea9/blob/main/O1.png)
 
-PARTE 3: Análisis de circuitos RLC en serie-paralelo
-PARTE 4: TEMAS ESPECIALES: Ancho de banda de circuitos resonantes y Aplicaciones
+PARTE 3: Análisis de circuitos RLC en serie-paralelo                                                                                                               PARTE 4: TEMAS ESPECIALES: Ancho de banda de circuitos resonantes y Aplicaciones
 
 ![](https://github.com/phchalco/Tarea9/blob/main/O2.png)
 
