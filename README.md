@@ -41,7 +41,21 @@ PARTE 4: TEMAS ESPECIALES: Ancho de banda de circuitos resonantes y Aplicaciones
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea8/blob/main/G1.jpg)
+![](https://github.com/phchalco/Tarea9/blob/main/L1.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L2.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L3.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L4.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L5.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L6.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L7.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/L8.jpg)
 
 Capitulo 18 FILTROS PASIVOS
 
@@ -59,17 +73,37 @@ Fitros pasabanda y Filtros rechazabanda
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea8/blob/main/K1.jpg)
+![](https://github.com/phchalco/Tarea9/blob/main/N1.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/N2.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/N3.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/N4.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/N5.jpg)
+
+![](https://github.com/phchalco/Tarea9/blob/main/N6.jpg)
 
 4.-Video
 
-https://www.youtube.com/watch?v=Nxr6F6N0ElM
+https://www.youtube.com/watch?v=HMbY7oa48KI
 
 5.-Conclusiones:
 
 -En virtud de lo argumentado, podemos concluir que los circuitos en serie y paralelo RC Y RL son de mucha importancia en el área de circuitos eléctricos 
 ya que estas se manipulan de distinta forma y su estudio abarca muchas más cosas.
 
--Finalmente, el tema de los circuitos y como intervienen en las distintas corrientes ya sea de RC o RL nos deja mucho enseñanza sobre como actuar en caso, de que nos toque su manipulación en los distintos circuitos que se presentan en la vida real.
+-De la misma manera, los circuitos RCL hablan de circuitos serie, paralelo y serie-paralelo, y también se pueden dar temas especiales como su aplicación y el ancho de banda de los circuitos oscilantes. Del mismo modo, con los filtros pasivos, se puede dividir en varios subtemas, como filtro de paso bajo, filtro de paso alto, filtro de paso de banda y filtro de muesca, todos estos temas son extremadamente importantes. 
+
+-En un circuito RLC dispuesto en serie, la reactancia más grande determina la reactancia neta del circuito, mientras que si este se encuentra en paralelo la reactancia neta es la mas pequeña.
 
 6.-Bibliografía
+
+Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
+
+Circuitos RLC en Paralelo en Corriente Alterna y Mixtos Aprende Facil. (s. f.). https://www.areatecnologia.com/electricidad/circuitos-rlc-paralelo.html
+
+Filtros pasivos. (s. f.). https://www.electronicafacil.net/tutoriales/Filtros-pasivos.html
+
+Libretexts. (2022, 2 noviembre). 6.6: Factor Q y ancho de banda de un circuito resonante. LibreTexts Español. https://espanol.libretexts.org/Vocacional/Tecnolog%C3%ADa_Electr%C3%B3nica/Libro:_Circuitos_el%C3%A9ctricos_II_-_Corriente_alterna_(Kuphaldt)/06:_Resonancia/6.06:_Factor_Q_y_ancho_de_banda_de_un_circuito_resonante
